@@ -1,0 +1,162 @@
+Competitor_ID,Market_ID,Competitor_Name,Market_Share,Number_of_Locations,Price_Level,Brand_Strength,Competition_Score
+C0001,M001,NextGen Consulting,11.2,2,Low,29.3,34.5
+C0002,M001,BlueWave Technologies,10.6,2,Medium,29.4,27.1
+C0003,M001,Quantum Business Services,15.6,2,Medium,38.9,36.8
+C0004,M001,Bright Path Consulting,62.6,6,Medium,95,97
+C0005,M002,BlueWave Technologies,10.3,1,Medium,25.7,23.2
+C0006,M002,Zenith Solutions,19.3,3,Medium,42.6,48.3
+C0007,M002,InfoEdge Systems,23.6,2,High,60.6,59.0
+C0008,M002,TrueNorth Advisory,46.8,5,High,95,97
+C0009,M003,Skyline Consulting,7.7,2,High,23.3,22.6
+C0010,M003,CoreStack IT,13.0,2,Low,31.5,32.0
+C0011,M003,Apex Business Solutions,28.2,2,Medium,64.3,64.4
+C0012,M003,TrueNorth Advisory,51.1,4,High,95,97
+C0013,M004,InfoEdge Systems,17.1,2,High,34.2,38.3
+C0014,M004,Bright Path Consulting,23.7,3,Medium,47.8,59.0
+C0015,M004,Orbit Software,59.2,6,Medium,95,97
+C0016,M005,  SILVERLINE TECHNOLOGIES,21.8,3,Low,53.1,51.7
+C0017,M005,Pinnacle Services,5.0,2,Low,20,15
+C0018,M005,Nova Business Group,7.6,2,Medium,20,20.0
+C0019,M005,Vertex Digital,65.6,6,Medium,95,97
+C0020,M006,TrueNorth Advisory,16.7,1,High,38.4,38.5
+C0021,M006,BlueWave Technologies,20.0,3,Medium,40.8,53.4
+C0022,M006,Vertex Digital,63.3,6,High,95,97
+C0023,M007,Nova Business Group,28.8,4,Medium,65.0,76.5
+C0024,M007,Vertex Digital,9.7,2,Medium,20,29.4
+C0025,M007,BlueWave Technologies,18.2,3,Medium,46.8,45.1
+C0026,M007,Skyline Consulting,22.6,3,High,47.8,57.5
+C0027,M007,CoreStack IT,20.7,3,Medium,40.8,49.1
+C0028,M008,Zenith Solutions,29.0,3,Medium,60.9,66.2
+C0029,M008,InfoEdge Systems,27.7,3,Low,58.1,70.8
+C0030,M008,Orbit Software,13.5,2,Medium,34.8,31.7
+C0031,M008,Nova Business Group,29.8,3,High,69.2,70.6
+C0032,M009,TrueNorth Advisory,4.5,1,Low,20,18.0
+C0033,M009,CoreStack IT,95.5,9,Medium,95,97
+C0034,M010,TrueNorth Advisory,19.7,2,Low,41.0,42.9
+C0035,M010,Pinnacle Services,25.0,3,High,62.3,66.5
+C0036,M010,Bright Path Consulting,9.5,2,Medium,20,23.1
+C0037,M010,CoreStack IT,11.7,2,High,33.1,32.4
+C0038,M010,Orbit Software,11.3,2,Medium,23.9,25.4
+C0039,M010,Quantum Business Services,22.8,2,Low,57.2,51.8
+C0040,M011,Bright Path Consulting,16.4,2,Medium,40.8,41.2
+C0041,M011,Zenith Solutions,4.9,1,medium,20,15
+C0042,M011,Quantum Business Services,78.7,7,Low,95,97
+C0043,M012,Orbit Software,17.4,3,Low,39.8,43.6
+C0044,M012,Silverline Technologies,14.8,2,Medium,35.1,37.1
+C0045,M012,Momentum Digital,67.8,6,Medium,95,97
+C0046,M013,Vertex Digital,25.3,2,Medium,55.7,56.6
+C0047,M013,Nova Business Group,19.1,3,Medium,37.1,42.0
+C0048,M013,Momentum Digital,7.1,2,High,20,15.8
+C0049,M013,Skyline Consulting,4.1,1,Medium,20,18.9
+C0050,M013,TrueNorth Advisory,13.3,1,Medium,23.3,30.6
+C0051,M013,Bright Path Consulting,31.1,3,Medium,69.7,77.8
+C0052,M014,Apex Business Solutions,5.8,1,Low,20,15
+C0053,M014,Pinnacle Services,26.4,2,High,65.9,69.0
+C0054,M014,Skyline Consulting,20.0,2,Low,52.5,47.7
+C0055,M014,Momentum Digital,47.8,4,High,95,97
+C0056,M015,Bright Path Consulting,15.2,1,High,42.1,35.4
+C0057,M015,CoreStack IT,15.0,2,Medium,27.4,37.1
+C0058,M015,Quantum Business Services,69.8,7,Medium,95,97
+C0059,M016,Pinnacle Services,16.0,3,Low,43.7,45.2
+C0060,M016,Bright Path Consulting,84.0,8,Medium,95,97
+C0061,M017,Zenith Solutions,12.2,2,High,28.6,29.9
+C0062,M017,InfoEdge Systems,14.3,2,Medium,31.5,38.9
+C0063,M017,Silverline Technologies,7.1,1,Medium,20,15
+C0064,M017,TrueNorth Advisory,27.5,2,Low,58.6,69.0
+C0065,M017,Bright Path Consulting,38.9,4,Medium,88.6,92.5
+C0066,M018,Vertex Digital,10.2,2,Medium,30.8,25.0
+C0067,M018,Apex Business Solutions,26.0,4,Medium,55.4,63.5
+C0068,M018,InfoEdge Systems,24.0,2,Medium,61.1,56.8
+C0069,M018,CoreStack IT,39.8,4,Medium,84.3,93.4
+C0070,M019,Quantum Business Services,14.5,2,High,41.3,38.0
+C0071,M019,CoreStack IT,85.5,7,Low,95,97
+C0072,M020,BlueWave Technologies,27.3,3,Medium,62.8,69.5
+C0073,M020,Momentum Digital,20.2,3,Medium,53.8,53.0
+C0074,M020,NextGen Consulting,19.0,2,Medium,42.0,46.9
+C0075,M020,Zenith Solutions,33.5,4,Medium,70.4,78.9
+C0076,M021,Bright Path Consulting,17.7,2,High,38.6,45.6
+C0077,M021,TrueNorth Advisory,16.0,1,Medium,30.6,40.6
+C0078,M021,Orbit Software,9.8,2,Medium,29.5,27.4
+C0079,M021,Silverline Technologies,56.5,6,Medium,95,97
+C0080,M022,TrueNorth Advisory,9.1,2,Medium,21.0,26.0
+C0081,M022,Apex Business Solutions,27.6,3,Low,64.3,66.0
+C0082,M022,NextGen Consulting,20.0,2,High,49.8,54.8
+C0083,M022,Quantum Business Services,43.3,4,Low,95,97
+C0084,M023,CoreStack IT,26.6,3,Low,53.9,61.8
+C0085,M023,Vertex Digital,14.4,2,High,26.4,33.7
+C0086,M023,Momentum Digital,59.0,5,Low,95,97
+C0087,M024,Quantum Business Services,26.1,4,Low,59.0,60.7
+C0088,M024,CoreStack IT,7.0,1,High,20,23.4
+C0089,M024,Orbit Software,14.0,2,Low,25.6,35.5
+C0090,M024,Skyline Consulting,52.9,5,Medium,95,97
+C0091,M025,TrueNorth Advisory,11.9,2,Medium,20,28.0
+C0092,M025,Zenith Solutions,9.8,1,High,20,27.8
+C0093,M025,Skyline Consulting,78.3,7,Medium,95,97
+C0094,M026,Vertex Digital,16.3,2,High,33.0,43.0
+C0095,M026,Zenith Solutions,21.1,3,High,55.5,56.6
+C0096,M026,TrueNorth Advisory,8.4,1,Medium,20,19.4
+C0097,M026,Skyline Consulting,24.1,2,Medium,60.2,58.1
+C0098,M026,NextGen Consulting,5.4,2,High,20,18.9
+C0099,M026,Momentum Digital,24.7,3,Medium,60.7,63.4
+C0100,M027,NextGen Consulting,29.5,4,Medium,74.6,79.5
+C0101,M027,Zenith Solutions,25.7,3,High,62.7,61.1
+C0102,M027,Silverline Technologies,15.8,3,High,36.4,37.8
+C0103,M027,Orbit Software,5.1,1,Medium,20,20.2
+C0104,M027,Vertex Digital,5.4,1,High,20,15
+C0105,M027,Pinnacle Services,18.5,3,High,45.2,43.9
+C0106,M028,Nova Business Group,8.5,2,High,25.5,23.6
+C0107,M028,Apex Business Solutions,91.5,8,Medium,95,97
+C0108,M029,Quantum Business Services,19.9,2,Low,38.1,41.9
+C0109,M029,TrueNorth Advisory,80.1,8,Low,95,97
+C0110,M030,Orbit Software,25.4,3,Medium,65.1,60.5
+C0111,M030,Bright Path Consulting,22.9,3,Medium,46.4,56.7
+C0112,M030,NextGen Consulting,18.5,3,Low,43.8,46.9
+C0113,M030,Pinnacle Services,33.2,4,Medium,72.6,78.4
+C0114,M031,Momentum Digital,13.8,2,Medium,30.6,35.0
+C0115,M031,Pinnacle Services,6.6,2,Medium,20,18.5
+C0116,M031,Orbit Software,79.6,7,High,95,97
+C0117,M032,Vertex Digital,23.3,3,Medium,56.7,59.9
+C0118,M032,Pinnacle Services,4.4,1,Medium,20,15
+C0119,M032,Zenith Solutions,7.4,2,Medium,20,21.5
+C0120,M032,CoreStack IT,64.9,6,High,95,97
+C0121,M033,InfoEdge Systems,20.0,2,Medium,49.7,54.7
+C0122,M033,Skyline Consulting,26.6,3,High,64.3,65.1
+C0123,M033,TrueNorth Advisory,53.4,5,Medium,95,97
+C0124,M034,Silverline Technologies,19.6,3,High,44.0,46.2
+C0125,M034,CoreStack IT,21.3,3,Low,41.6,50.7
+C0126,M034,TrueNorth Advisory,4.9,2,Medium,20,19.2
+C0127,M034,Orbit Software,54.2,6,Medium,95,97
+C0128,M035,Zenith Solutions,24.1,3,Medium,54.4,60.0
+C0129,M035,CoreStack IT,75.9,7,Medium,95,97
+C0130,M036,Bright Path Consulting,14.5,2,Medium,27.8,39.3
+C0131,M036,Pinnacle Services,29.9,4,Medium,61.8,69.6
+C0132,M036,Momentum Digital,55.6,6,High,95,97
+C0133,M037,Apex Business Solutions,24.2,3,Medium,53.0,61.6
+C0134,M037,BlueWave Technologies,25.2,3,Medium,50.8,60.3
+C0135,M037,Bright Path Consulting,50.6,5,Low,95,97
+C0136,M038,BlueWave Technologies,21.5,3,Low,48.1,50.2
+C0137,M038,Momentum Digital,21.2,2,Medium,44.4,48.3
+C0138,M038,Bright Path Consulting,57.3,6,High,95,97
+C0139,M039,Nova Business Group,23.3,3,Low,56.8,61.4
+C0140,M039,Zenith Solutions,76.7,7,Medium,95,97
+C0141,M040,Skyline Consulting,13.7,2,Low,39.0,34.1
+C0142,M040,Quantum Business Services,86.3,8,Medium,95,97
+C0143,M041,Silverline Technologies,19.8,2,High,38.4,50.1
+C0144,M041,BlueWave Technologies,10.4,2,Medium,29.9,27.6
+C0145,M041,Pinnacle Services,15.7,1,Low,36.3,33.7
+C0146,M041,Apex Business Solutions,6.9,1,Medium,20,19.3
+C0147,M041,Zenith Solutions,47.2,5,Low,95,97
+C0148,M042,Apex Business Solutions,6.0,1,High,20,15
+C0149,M042,BlueWave Technologies,27.9,3,Low,63.7,66.2
+C0150,M042,Silverline Technologies,66.1,7,High,95,97
+C0151,M043,Zenith Solutions,25.7,3,Medium,56.4,65.6
+C0152,M043,Skyline Consulting,74.3,6,Medium,95,97
+C0153,M044,Bright Path Consulting,5.9,2,Medium,20,15
+C0154,M044,Nova Business Group,94.1,9,High,95,97
+C0155,M045,Skyline Consulting,14.7,2,High,31.1,31.4
+C0156,M045,Vertex Digital,28.4,3,Medium,60.2,71.0
+C0157,M045,Zenith Solutions,56.9,6,Low,95,97
+C0158,M046,Bright Path Consulting,10.8,1,High,27.3,28.1
+C0159,M046,Vertex Digital,25.9,3,High,59.3,65.0
+C0160,M046,Skyline Consulting,63.3,7,Medium,95,97
+C0004,M001,Bright Path Consulting,62.6,6,Medium,95,97
